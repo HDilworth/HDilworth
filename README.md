@@ -9,6 +9,15 @@ I have used Agile Project Management with a team to effectively complete project
 
 #### Computer Hardware
 I love putting together and taking apart computers to get a hands on understanding of how they work.
+
+### Skills
+Communication - intermediate
+Data Visualization - none
+Excel - basic
+Presentation - intermediate
+Statistics - basic
+SQL - none
+
 ## Projects
 ### Coaching Effectiveness for LHS Cross Country/Distnace Track 
 A project by me to discover by how much atheltes running cross country and/or distance track at Liberty High School in Peoria, Arizona can expect to improve by.
