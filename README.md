@@ -11,12 +11,12 @@ I have used Agile Project Management with a team to effectively complete project
 I love putting together and taking apart computers to get a hands on understanding of how they work.
 
 ### Skills
-Communication - intermediate
-Data Visualization - none
-Excel - basic
-Presentation - intermediate
-Statistics - basic
-SQL - none
+Communication - intermediate <br>
+Data Visualization - none <br>
+Excel - basic <br>
+Presentation - intermediate <br>
+Statistics - basic <br>
+SQL - none <br>
 
 ## Projects
 ### Coaching Effectiveness for LHS Cross Country/Distnace Track 
